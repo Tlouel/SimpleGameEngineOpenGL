@@ -1,0 +1,27 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (SimpleEngineWithOpenGL-004.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Actor.cpp
+  AnimSpriteComponent.cpp
+  Assests.cpp
+  Astroïd.cpp
+  BackgroundSpriteComponent.cpp
+  CCC.cpp
+  Component.cpp
+  Game.cpp
+  InputComponent.cpp
+  Laser.cpp
+  Log.cpp
+  Main.cpp
+  MoveComponent.cpp
+  Random.cpp
+  Rectangle.cpp
+  Renderer.cpp
+  Ship.cpp
+  SpriteComponent.cpp
+  Texture.cpp
+  Timer.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  Vector2.cpp
+  Window.cpp
+  Génération de code en cours...
+  SimpleEngineWithOpenGL-004.vcxproj -> C:\Users\getre\OneDrive\Documents\OpenGLSimeGameEngine\SimpleEngine\x64\Debug\Shooter2D.exe
