@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Actor.cpp" />
+    <ClCompile Include="AnimSpriteComponent.cpp" />
+    <ClCompile Include="Assests.cpp" />
+    <ClCompile Include="BackgroundSpriteComponent.cpp" />
+    <ClCompile Include="CCC.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="InputComponent.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MoveComponent.cpp" />
+    <ClCompile Include="Random.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="SpriteComponent.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="Vector2.cpp" />
+    <ClCompile Include="Window.cpp" />
+    <ClCompile Include="VertexArray.cpp" />
+    <ClCompile Include="RendererOGL.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="Vector3.cpp" />
+    <ClCompile Include="Matrix4.cpp" />
+    <ClCompile Include="Quaternion.cpp" />
+    <ClCompile Include="Mesh.cpp" />
+    <ClCompile Include="MeshComponent.cpp" />
+    <ClCompile Include="Camera.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimSpriteComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Assets.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BackgroundSpriteComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CCC.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="InputComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="IRenderer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="RendererOGL.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexArray.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshComponent.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{d9a10859-b5e2-4658-9e99-0e8087ac18ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

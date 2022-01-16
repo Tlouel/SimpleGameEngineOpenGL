@@ -1,0 +1,13 @@
+﻿  Game.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Window.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  Log.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Log.h(4,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL_log.h' : No such file or directory
+  Main.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Window.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  Renderer.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Rectangle.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL_rect.h' : No such file or directory
+  Timer.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Timer.cpp(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL_timer.h' : No such file or directory
+  Window.cpp
+D:\GAME3\GETREY Morgane\SimpleEngine\SimpleEngineWithOpenGL-004\Window.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+  Génération de code en cours...
